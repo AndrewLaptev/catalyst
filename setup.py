@@ -7,7 +7,7 @@ import os
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = "catalyst"
+NAME = "catalyst_pdm"
 DESCRIPTION = "Catalyst fork compatible with PDM"
 URL = "https://github.com/AndrewLaptev/catalyst_pdm"
 EMAIL = "scitator@gmail.com"
