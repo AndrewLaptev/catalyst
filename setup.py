@@ -8,8 +8,8 @@ from setuptools import find_packages, setup
 
 # Package meta-data.
 NAME = "catalyst"
-DESCRIPTION = "Catalyst. Accelerated deep learning R&D with PyTorch."
-URL = "https://github.com/catalyst-team/catalyst"
+DESCRIPTION = "Catalyst fork compatible with PDM"
+URL = "https://github.com/AndrewLaptev/catalyst_pdm"
 EMAIL = "scitator@gmail.com"
 AUTHOR = "Sergey Kolesnikov"
 REQUIRES_PYTHON = ">=3.7.0"
